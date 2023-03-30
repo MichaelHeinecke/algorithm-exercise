@@ -1,1 +1,3 @@
-# algorithm-exercise
+# Algorithm Exercise
+
+For the algorithmic biceps.
