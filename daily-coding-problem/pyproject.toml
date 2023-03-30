@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "algorithm-exercise"
+name = "daily-coding-problem"
 version = "0.1.0"
 description = ""
 authors = ["Michael Heinecke <47566635+MichaelHeinecke@users.noreply.github.com>"]
 readme = "README.md"
-packages = [{include = "algorithm_exercise"}]
+packages = [{include = "daily_coding_problem"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
