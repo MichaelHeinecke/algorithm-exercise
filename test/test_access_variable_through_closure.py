@@ -1,6 +1,6 @@
 import pytest
 
-from src.access_variable_through_closure import cons, car, cdr
+from algorithm_exercise.access_variable_through_closure import cons, car, cdr
 
 
 @pytest.fixture

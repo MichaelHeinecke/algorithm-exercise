@@ -1,6 +1,6 @@
 import pytest
 
-from src.serialalize_deserialize_binary_tree import Node, BinaryTree
+from algorithm_exercise.serialalize_deserialize_binary_tree import Node, BinaryTree
 
 
 @pytest.fixture

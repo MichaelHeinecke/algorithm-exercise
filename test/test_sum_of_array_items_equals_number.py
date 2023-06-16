@@ -1,4 +1,4 @@
-from src.sum_of_array_items_equals_number import \
+from algorithm_exercise.sum_of_array_items_equals_number import \
     sum_of_array_items_equals_number
 
 

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "algorithm-exercise"
+version = "0.1.0"
+description = ""
+authors = ["MichaelHeinecke <47566635+MichaelHeinecke@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytest = "^7.3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
